@@ -181,7 +181,7 @@ custom_css = f"""
         width: 120px;
         height: 120px;
         border-radius: 50%;
-        background-image: url('{https://i.ibb.co/Xx9QDNgw/IMG-20260211-205758-339.jpg}');
+        background-image: url('{background_image}');
         background-size: cover;
         background-position: center;
         margin: 0 auto 1rem auto;
